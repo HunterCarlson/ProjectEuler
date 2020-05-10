@@ -11,197 +11,197 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11-20", "11-20", "{BEB21FEA
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "21-30", "21-30", "{76261ABC-179C-483B-8AEA-F7E345A49D93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022 Names Scores", "022 Names Scores\022 Names Scores.csproj", "{157EBF9C-938E-4803-98B4-398444F5D140}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022 Names Scores", "Problems\022 Names Scores\022 Names Scores.csproj", "{157EBF9C-938E-4803-98B4-398444F5D140}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023 Non-abundant Sums", "023 Non-abundant Sums\023 Non-abundant Sums.csproj", "{A87888F0-56D6-4277-8FF2-6B8043AC3416}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023 Non-abundant Sums", "Problems\023 Non-abundant Sums\023 Non-abundant Sums.csproj", "{A87888F0-56D6-4277-8FF2-6B8043AC3416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024 Lexicographic Permutations", "024 Lexicographic Permutations\024 Lexicographic Permutations.csproj", "{DF871A6E-FFA8-4913-88AF-4B1F3CB3A4AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024 Lexicographic Permutations", "Problems\024 Lexicographic Permutations\024 Lexicographic Permutations.csproj", "{DF871A6E-FFA8-4913-88AF-4B1F3CB3A4AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "025 1000-digit Fibonacci number", "025 1000-digit Fibonacci number\025 1000-digit Fibonacci number.csproj", "{99F41BF1-7E19-4F33-AEEF-9C7C2C13EB08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "025 1000-digit Fibonacci number", "Problems\025 1000-digit Fibonacci number\025 1000-digit Fibonacci number.csproj", "{99F41BF1-7E19-4F33-AEEF-9C7C2C13EB08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "026 Reciprocal cycles", "026 Reciprocal cycles\026 Reciprocal cycles.csproj", "{D019EA48-5A01-40AC-9C83-4BAA2DE027A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "026 Reciprocal cycles", "Problems\026 Reciprocal cycles\026 Reciprocal cycles.csproj", "{D019EA48-5A01-40AC-9C83-4BAA2DE027A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "027 Quadratic primes", "027 Quadratic primes\027 Quadratic primes.csproj", "{C102483D-6B9E-44ED-9A6B-C8E173C8637F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "027 Quadratic primes", "Problems\027 Quadratic primes\027 Quadratic primes.csproj", "{C102483D-6B9E-44ED-9A6B-C8E173C8637F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "028 Number spiral diagonals", "028 Number spiral diagonals\028 Number spiral diagonals.csproj", "{514C5FBE-E2BE-4C0B-B2D0-0730FAA14975}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "028 Number spiral diagonals", "Problems\028 Number spiral diagonals\028 Number spiral diagonals.csproj", "{514C5FBE-E2BE-4C0B-B2D0-0730FAA14975}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "029 Distinct powers", "029 Distinct powers\029 Distinct powers.csproj", "{A5BB5727-CE95-44B1-8D8D-7CFAB0DB496A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "029 Distinct powers", "Problems\029 Distinct powers\029 Distinct powers.csproj", "{A5BB5727-CE95-44B1-8D8D-7CFAB0DB496A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030 Digit fifth powers", "030 Digit fifth powers\030 Digit fifth powers.csproj", "{8DCDB43E-6EA1-4BD9-A272-EB4E4D1602BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030 Digit fifth powers", "Problems\030 Digit fifth powers\030 Digit fifth powers.csproj", "{8DCDB43E-6EA1-4BD9-A272-EB4E4D1602BD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "31-40", "31-40", "{D99EE8A6-6D8D-4A5C-8734-9125444E8129}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "031 Coin sums", "031 Coin sums\031 Coin sums.csproj", "{6D7FA41D-3E41-45CA-96D9-7C9B84B3244D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "031 Coin sums", "Problems\031 Coin sums\031 Coin sums.csproj", "{6D7FA41D-3E41-45CA-96D9-7C9B84B3244D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "032 Pandigital products", "032 Pandigital products\032 Pandigital products.csproj", "{262050D4-FB7E-48E6-8B48-6066BAB45516}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "032 Pandigital products", "Problems\032 Pandigital products\032 Pandigital products.csproj", "{262050D4-FB7E-48E6-8B48-6066BAB45516}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "033 Digit canceling fractions", "033 Digit canceling fractions\033 Digit canceling fractions.csproj", "{60875274-F92E-4C9A-9C74-7F2AF275F81F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "033 Digit canceling fractions", "Problems\033 Digit canceling fractions\033 Digit canceling fractions.csproj", "{60875274-F92E-4C9A-9C74-7F2AF275F81F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "034 Digit factorials", "034 Digit factorials\034 Digit factorials.csproj", "{EC6BD573-ADDA-40A4-8068-EB4CB0C490B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "034 Digit factorials", "Problems\034 Digit factorials\034 Digit factorials.csproj", "{EC6BD573-ADDA-40A4-8068-EB4CB0C490B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "035 Circular primes", "035 Circular primes\035 Circular primes.csproj", "{61BDA7FE-E075-4C7B-891C-A5DCB6A78B8A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "035 Circular primes", "Problems\035 Circular primes\035 Circular primes.csproj", "{61BDA7FE-E075-4C7B-891C-A5DCB6A78B8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "036 Double-base palindromes", "036 Double-base palindromes\036 Double-base palindromes.csproj", "{ADAA30C0-4ECC-4D73-A148-D53AB273BC33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "036 Double-base palindromes", "Problems\036 Double-base palindromes\036 Double-base palindromes.csproj", "{ADAA30C0-4ECC-4D73-A148-D53AB273BC33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "037 Truncatable primes", "037 Truncatable primes\037 Truncatable primes.csproj", "{468FF900-1E4A-47B4-95C5-049B463AD718}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "037 Truncatable primes", "Problems\037 Truncatable primes\037 Truncatable primes.csproj", "{468FF900-1E4A-47B4-95C5-049B463AD718}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "038 Pandigital multiples", "038 Pandigital multiples\038 Pandigital multiples.csproj", "{71DA63D4-B932-4CEB-9A01-1D481EC9EAA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "038 Pandigital multiples", "Problems\038 Pandigital multiples\038 Pandigital multiples.csproj", "{71DA63D4-B932-4CEB-9A01-1D481EC9EAA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "039 Integer right triangles", "039 Integer right triangles\039 Integer right triangles.csproj", "{35503B4B-EDE5-4034-896E-9081A7EBA9B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "039 Integer right triangles", "Problems\039 Integer right triangles\039 Integer right triangles.csproj", "{35503B4B-EDE5-4034-896E-9081A7EBA9B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "040 Champernownes constant", "040 Champernownes constant\040 Champernownes constant.csproj", "{D0DEFB88-63E5-43C3-ABDC-F0EE685DAA31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "040 Champernownes constant", "Problems\040 Champernownes constant\040 Champernownes constant.csproj", "{D0DEFB88-63E5-43C3-ABDC-F0EE685DAA31}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "41-50", "41-50", "{F336EA52-94E7-490A-9F94-BBF3F6C6EDCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "041 Pandigital prime", "041 Pandigital prime\041 Pandigital prime.csproj", "{206379AF-8584-4584-BBFC-2A3D58302D5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "041 Pandigital prime", "Problems\041 Pandigital prime\041 Pandigital prime.csproj", "{206379AF-8584-4584-BBFC-2A3D58302D5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "042 Coded triangle numbers", "042 Coded triangle numbers\042 Coded triangle numbers.csproj", "{E23621DD-0638-4A48-9DDB-2BA89D5B34CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "042 Coded triangle numbers", "Problems\042 Coded triangle numbers\042 Coded triangle numbers.csproj", "{E23621DD-0638-4A48-9DDB-2BA89D5B34CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "043 Sub-string divisibility", "043 Sub-string divisibility\043 Sub-string divisibility.csproj", "{3AB10209-7AD0-47B4-9651-BF588E5E1988}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "043 Sub-string divisibility", "Problems\043 Sub-string divisibility\043 Sub-string divisibility.csproj", "{3AB10209-7AD0-47B4-9651-BF588E5E1988}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "044 Pentagon numbers", "044 Pentagon numbers\044 Pentagon numbers.csproj", "{769C8E41-7401-4750-AEB2-9F29D2FF2B72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "044 Pentagon numbers", "Problems\044 Pentagon numbers\044 Pentagon numbers.csproj", "{769C8E41-7401-4750-AEB2-9F29D2FF2B72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045 Triangular pentagonal and hexagonal", "045 Triangular pentagonal and hexagonal\045 Triangular pentagonal and hexagonal.csproj", "{03760306-EEE8-408F-9567-2CC97D45DFEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045 Triangular pentagonal and hexagonal", "Problems\045 Triangular pentagonal and hexagonal\045 Triangular pentagonal and hexagonal.csproj", "{03760306-EEE8-408F-9567-2CC97D45DFEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "046 Goldbachs other conjecture", "046 Goldbachs other conjecture\046 Goldbachs other conjecture.csproj", "{7E54B3F8-8E2F-4E5F-9197-E226A6585D2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "046 Goldbachs other conjecture", "Problems\046 Goldbachs other conjecture\046 Goldbachs other conjecture.csproj", "{7E54B3F8-8E2F-4E5F-9197-E226A6585D2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047 Distinct primes factors", "047 Distinct primes factors\047 Distinct primes factors.csproj", "{848C8CE0-AC49-4CBC-85C0-DE18050A6F45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047 Distinct primes factors", "Problems\047 Distinct primes factors\047 Distinct primes factors.csproj", "{848C8CE0-AC49-4CBC-85C0-DE18050A6F45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "048 Self powers", "048 Self powers\048 Self powers.csproj", "{5EA9CE5C-0158-404E-BFEB-84CBA3CBCF0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "048 Self powers", "Problems\048 Self powers\048 Self powers.csproj", "{5EA9CE5C-0158-404E-BFEB-84CBA3CBCF0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "049 Prime permutations", "049 Prime permutations\049 Prime permutations.csproj", "{9BAE4378-9425-4106-8C6A-A30C2BD7B034}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "049 Prime permutations", "Problems\049 Prime permutations\049 Prime permutations.csproj", "{9BAE4378-9425-4106-8C6A-A30C2BD7B034}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050 Consecutive prime sum", "050 Consecutive prime sum\050 Consecutive prime sum.csproj", "{B33B90E3-0608-49DF-98C8-E6E0AEDF17C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050 Consecutive prime sum", "Problems\050 Consecutive prime sum\050 Consecutive prime sum.csproj", "{B33B90E3-0608-49DF-98C8-E6E0AEDF17C0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "51-60", "51-60", "{33530C05-97BE-4E8B-BED0-8409031AEE88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "051 Prime digit replacements BruteForce", "051 Prime digit replacements\051 Prime digit replacements BruteForce.csproj", "{04AA95F2-3B6B-49CD-9B39-C75291A3239B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "051 Prime digit replacements BruteForce", "Problems\051 Prime digit replacements\051 Prime digit replacements BruteForce.csproj", "{04AA95F2-3B6B-49CD-9B39-C75291A3239B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "051 Prime digit replacements Better", "051 Prime digit replacements Better\051 Prime digit replacements Better.csproj", "{A099A957-964E-437D-852F-93DF461B2292}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "051 Prime digit replacements Better", "Problems\051 Prime digit replacements Better\051 Prime digit replacements Better.csproj", "{A099A957-964E-437D-852F-93DF461B2292}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "052 Permuted multiples", "052 Permuted multiples\052 Permuted multiples.csproj", "{F8E5EF63-777F-4749-80E5-433B7905AE5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "052 Permuted multiples", "Problems\052 Permuted multiples\052 Permuted multiples.csproj", "{F8E5EF63-777F-4749-80E5-433B7905AE5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "053 Combinatoric selections", "053 Combinatoric selections\053 Combinatoric selections.csproj", "{B7882BB7-CD53-4531-8402-32FBF6045270}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "053 Combinatoric selections", "Problems\053 Combinatoric selections\053 Combinatoric selections.csproj", "{B7882BB7-CD53-4531-8402-32FBF6045270}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "054 Poker hands", "054 Poker hands\054 Poker hands.csproj", "{2EC73EAA-1ABB-4945-B66E-39A46C4FEFC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "054 Poker hands", "Problems\054 Poker hands\054 Poker hands.csproj", "{2EC73EAA-1ABB-4945-B66E-39A46C4FEFC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "055 Lychrel numbers", "055 Lychrel numbers\055 Lychrel numbers.csproj", "{6230C757-6372-4F7B-A9FF-1B2938D54363}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "055 Lychrel numbers", "Problems\055 Lychrel numbers\055 Lychrel numbers.csproj", "{6230C757-6372-4F7B-A9FF-1B2938D54363}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "056 Powerful digit sum", "056 Powerful digit sum\056 Powerful digit sum.csproj", "{F98E8A39-5362-4D2D-8288-AD8DCCC3E7D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "056 Powerful digit sum", "Problems\056 Powerful digit sum\056 Powerful digit sum.csproj", "{F98E8A39-5362-4D2D-8288-AD8DCCC3E7D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "057 Square root convergents", "057 Square root convergents\057 Square root convergents.csproj", "{1FB3BFC8-5DF9-43F7-A0E5-961A128D9A75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "057 Square root convergents", "Problems\057 Square root convergents\057 Square root convergents.csproj", "{1FB3BFC8-5DF9-43F7-A0E5-961A128D9A75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "058 Spiral primes", "058 Spiral primes\058 Spiral primes.csproj", "{B3E7FDE9-5811-4554-A7C0-9600582930F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "058 Spiral primes", "Problems\058 Spiral primes\058 Spiral primes.csproj", "{B3E7FDE9-5811-4554-A7C0-9600582930F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "059 XOR decryption", "059 XOR decryption\059 XOR decryption.csproj", "{5A8D83BA-185D-4A3F-B5CD-C2827EC0E58D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "059 XOR decryption", "Problems\059 XOR decryption\059 XOR decryption.csproj", "{5A8D83BA-185D-4A3F-B5CD-C2827EC0E58D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "060 Prime pair sets", "060 Prime pair sets\060 Prime pair sets.csproj", "{1E6351CA-8BD5-44AC-942E-91C586779C37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "060 Prime pair sets", "Problems\060 Prime pair sets\060 Prime pair sets.csproj", "{1E6351CA-8BD5-44AC-942E-91C586779C37}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "61-70", "61-70", "{99B9E44F-931E-41F5-B2C0-FF15B158214D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "061 Cyclical figurate numbers", "061 Cyclical figurate numbers\061 Cyclical figurate numbers.csproj", "{85D6832D-8AD5-480A-895A-A769A91357A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "061 Cyclical figurate numbers", "Problems\061 Cyclical figurate numbers\061 Cyclical figurate numbers.csproj", "{85D6832D-8AD5-480A-895A-A769A91357A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "062 Cubic permutations", "062 Cubic permutations\062 Cubic permutations.csproj", "{FECB331C-12A3-4076-BD3E-F925F1413037}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "062 Cubic permutations", "Problems\062 Cubic permutations\062 Cubic permutations.csproj", "{FECB331C-12A3-4076-BD3E-F925F1413037}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "062 Cubic Permutations - better", "062 Cubic Permutations - better\062 Cubic Permutations - better.csproj", "{264DD0D1-F507-46D0-8A12-A00D8CC2CFA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "062 Cubic Permutations - better", "Problems\062 Cubic Permutations - better\062 Cubic Permutations - better.csproj", "{264DD0D1-F507-46D0-8A12-A00D8CC2CFA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "063 Powerful digit counts", "063 Powerful digit counts\063 Powerful digit counts.csproj", "{71567A04-77F7-4FEC-9351-2F19BB8911DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "063 Powerful digit counts", "Problems\063 Powerful digit counts\063 Powerful digit counts.csproj", "{71567A04-77F7-4FEC-9351-2F19BB8911DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "064 Odd period square roots", "064 Odd period square roots\064 Odd period square roots.csproj", "{F42EDE49-C090-4712-81D4-71274ADF3755}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "064 Odd period square roots", "Problems\064 Odd period square roots\064 Odd period square roots.csproj", "{F42EDE49-C090-4712-81D4-71274ADF3755}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "065 Convergents of e", "065 Convergents of e\065 Convergents of e.csproj", "{B9097B18-75B0-4C67-B11C-35F8A3F89A6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "065 Convergents of e", "Problems\065 Convergents of e\065 Convergents of e.csproj", "{B9097B18-75B0-4C67-B11C-35F8A3F89A6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "066 Diophantine equation", "066 Diophantine equation\066 Diophantine equation.csproj", "{67F72F93-AAB8-495D-8A41-9366567F2AE0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "066 Diophantine equation", "Problems\066 Diophantine equation\066 Diophantine equation.csproj", "{67F72F93-AAB8-495D-8A41-9366567F2AE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "067 Maximum path sum II", "067 Maximum path sum II\067 Maximum path sum II.csproj", "{B023D249-0D3F-4A09-94EC-E7F96C4071F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "067 Maximum path sum II", "Problems\067 Maximum path sum II\067 Maximum path sum II.csproj", "{B023D249-0D3F-4A09-94EC-E7F96C4071F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "068 Magic 5-gon ring", "068 Magic 5-gon ring\068 Magic 5-gon ring.csproj", "{53CBCDB4-2175-473F-BCDB-AF4013F72403}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "068 Magic 5-gon ring", "Problems\068 Magic 5-gon ring\068 Magic 5-gon ring.csproj", "{53CBCDB4-2175-473F-BCDB-AF4013F72403}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "069 Totient maximum", "069 Totient maximum\069 Totient maximum.csproj", "{8C68E699-8082-4E5C-BC15-8BD9DEC0BF0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "069 Totient maximum", "Problems\069 Totient maximum\069 Totient maximum.csproj", "{8C68E699-8082-4E5C-BC15-8BD9DEC0BF0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "070 Totient permutation", "070 Totient permutation\070 Totient permutation.csproj", "{BF865B6E-82DB-4A47-911D-D3BFA21CCC47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "070 Totient permutation", "Problems\070 Totient permutation\070 Totient permutation.csproj", "{BF865B6E-82DB-4A47-911D-D3BFA21CCC47}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "71-80", "71-80", "{0A29F249-E00D-413C-A5AC-0492D704AB8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "071 Ordered fractions", "071 Ordered fractions\071 Ordered fractions.csproj", "{0B759748-5454-4615-A8B1-0CECB0819263}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "071 Ordered fractions", "Problems\071 Ordered fractions\071 Ordered fractions.csproj", "{0B759748-5454-4615-A8B1-0CECB0819263}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "072 Counting fractions", "072 Counting fractions\072 Counting fractions.csproj", "{8ED4EA2F-A300-41C6-B7B3-F093D5EB905C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "072 Counting fractions", "Problems\072 Counting fractions\072 Counting fractions.csproj", "{8ED4EA2F-A300-41C6-B7B3-F093D5EB905C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "073 Counting fractions in a range", "073 Counting fractions in a range\073 Counting fractions in a range.csproj", "{C1876279-73FD-4BE2-BFBF-0F31499A8BB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "073 Counting fractions in a range", "Problems\073 Counting fractions in a range\073 Counting fractions in a range.csproj", "{C1876279-73FD-4BE2-BFBF-0F31499A8BB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "074 Digit factorial chains", "074 Digit factorial chains\074 Digit factorial chains.csproj", "{54726D5D-95C8-412C-94C0-67E4D6D3E38C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "074 Digit factorial chains", "Problems\074 Digit factorial chains\074 Digit factorial chains.csproj", "{54726D5D-95C8-412C-94C0-67E4D6D3E38C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "076 Counting summations", "076 Counting summations\076 Counting summations.csproj", "{6770DC54-D84A-4942-9C11-B8229B63D6A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "076 Counting summations", "Problems\076 Counting summations\076 Counting summations.csproj", "{6770DC54-D84A-4942-9C11-B8229B63D6A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "077 Prime summations", "077 Prime summations\077 Prime summations.csproj", "{4D90BAFB-4D04-469C-9769-0CDD2F55A295}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "077 Prime summations", "Problems\077 Prime summations\077 Prime summations.csproj", "{4D90BAFB-4D04-469C-9769-0CDD2F55A295}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "078 Coin partitions", "078 Coin partitions\078 Coin partitions.csproj", "{5909C55B-5A99-463D-8D2E-763045AB0983}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "078 Coin partitions", "Problems\078 Coin partitions\078 Coin partitions.csproj", "{5909C55B-5A99-463D-8D2E-763045AB0983}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "079 Passcode derivation", "079 Passcode derivation\079 Passcode derivation.csproj", "{B09B8DF0-908A-4DFC-94B1-07AB9A94A38C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "079 Passcode derivation", "Problems\079 Passcode derivation\079 Passcode derivation.csproj", "{B09B8DF0-908A-4DFC-94B1-07AB9A94A38C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "080 Square root digital expansion", "080 Square root digital expansion\080 Square root digital expansion.csproj", "{BB72F3DF-C53E-4AFF-BD40-673C636C0C33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "080 Square root digital expansion", "Problems\080 Square root digital expansion\080 Square root digital expansion.csproj", "{BB72F3DF-C53E-4AFF-BD40-673C636C0C33}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "81-90", "81-90", "{691A3A9F-7FCF-41BA-A03C-8FB9FF2DDC6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "081 Path sum - two ways", "081 Path sum - two ways\081 Path sum - two ways.csproj", "{4B3B5278-AFA4-4C8B-9DBF-69770B616915}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "081 Path sum - two ways", "Problems\081 Path sum - two ways\081 Path sum - two ways.csproj", "{4B3B5278-AFA4-4C8B-9DBF-69770B616915}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "081 Path sum - two ways - with AStar", "081 Path sum - two ways - with AStar\081 Path sum - two ways - with AStar.csproj", "{2D0EF66A-7F80-4EF0-A101-5043B145B160}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "081 Path sum - two ways - with AStar", "Problems\081 Path sum - two ways - with AStar\081 Path sum - two ways - with AStar.csproj", "{2D0EF66A-7F80-4EF0-A101-5043B145B160}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "082 Path sum three ways", "082 Path sum three ways\082 Path sum three ways.csproj", "{B48DB41B-0232-4BE2-A396-282CD41FBD0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "082 Path sum three ways", "Problems\082 Path sum three ways\082 Path sum three ways.csproj", "{B48DB41B-0232-4BE2-A396-282CD41FBD0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "083 Path sum four ways", "083 Path sum four ways\083 Path sum four ways.csproj", "{C1CA87D1-17D2-4068-95C8-7B320B73F345}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "083 Path sum four ways", "Problems\083 Path sum four ways\083 Path sum four ways.csproj", "{C1CA87D1-17D2-4068-95C8-7B320B73F345}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "084 Monopoly odds", "084 Monopoly odds\084 Monopoly odds.csproj", "{550CFD9D-C856-4ACA-B29E-B3489EAD52F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "084 Monopoly odds", "Problems\084 Monopoly odds\084 Monopoly odds.csproj", "{550CFD9D-C856-4ACA-B29E-B3489EAD52F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "085 Counting rectangles", "085 Counting rectangles\085 Counting rectangles.csproj", "{F58BF658-D3ED-4006-98E8-B5043C559E98}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "085 Counting rectangles", "Problems\085 Counting rectangles\085 Counting rectangles.csproj", "{F58BF658-D3ED-4006-98E8-B5043C559E98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "086 Cuboid route", "086 Cuboid route\086 Cuboid route.csproj", "{ACFE8C6C-FBB0-4115-9B91-3CE668F7E8A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "086 Cuboid route", "Problems\086 Cuboid route\086 Cuboid route.csproj", "{ACFE8C6C-FBB0-4115-9B91-3CE668F7E8A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "087 Prime power triples", "087 Prime power triples\087 Prime power triples.csproj", "{C01877AC-830E-40EA-8D9F-9D29AD693975}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "087 Prime power triples", "Problems\087 Prime power triples\087 Prime power triples.csproj", "{C01877AC-830E-40EA-8D9F-9D29AD693975}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 Multiples of Five and Three", "001 Multiples of Five and Three\001 Multiples of Five and Three.csproj", "{766522AF-CC88-4D07-8D48-B813374DF020}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 Multiples of Five and Three", "Problems\001 Multiples of Five and Three\001 Multiples of Five and Three.csproj", "{766522AF-CC88-4D07-8D48-B813374DF020}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 Even Fibonacci Numbers", "002 Even Fibonacci Numbers\002 Even Fibonacci Numbers.csproj", "{91E12786-F815-4E3A-AB2C-AEB71F6C29BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 Even Fibonacci Numbers", "Problems\002 Even Fibonacci Numbers\002 Even Fibonacci Numbers.csproj", "{91E12786-F815-4E3A-AB2C-AEB71F6C29BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 Largest Prime Factor", "003 Largest Prime Factor\003 Largest Prime Factor.csproj", "{56A6C333-FF3A-4E5C-9FCB-2EAA6CB03883}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 Largest Prime Factor", "Problems\003 Largest Prime Factor\003 Largest Prime Factor.csproj", "{56A6C333-FF3A-4E5C-9FCB-2EAA6CB03883}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 Largest Palindrome Product", "004 Largest Palindrome Product\004 Largest Palindrome Product.csproj", "{E707DE55-71A8-493A-882B-5191B90C40D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 Largest Palindrome Product", "Problems\004 Largest Palindrome Product\004 Largest Palindrome Product.csproj", "{E707DE55-71A8-493A-882B-5191B90C40D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 Smallest Multiple", "005 Smallest Multiple\005 Smallest Multiple.csproj", "{33A12B82-0DE9-4C0F-9405-B1F65EE2DC9C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 Smallest Multiple", "Problems\005 Smallest Multiple\005 Smallest Multiple.csproj", "{33A12B82-0DE9-4C0F-9405-B1F65EE2DC9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006 Sum Square Difference", "006 Sum Square Difference\006 Sum Square Difference.csproj", "{CA2239DA-A156-43F6-A40B-A077F678CA97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006 Sum Square Difference", "Problems\006 Sum Square Difference\006 Sum Square Difference.csproj", "{CA2239DA-A156-43F6-A40B-A077F678CA97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007 10001st Prime", "007 10001st Prime\007 10001st Prime.csproj", "{7EF22164-8D47-485B-865B-F280CE0EFCAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007 10001st Prime", "Problems\007 10001st Prime\007 10001st Prime.csproj", "{7EF22164-8D47-485B-865B-F280CE0EFCAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008 Largest Product in a Series", "008 Largest Product in a Series\008 Largest Product in a Series.csproj", "{9FA85458-EE61-4F76-AC09-5BE990A647E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008 Largest Product in a Series", "Problems\008 Largest Product in a Series\008 Largest Product in a Series.csproj", "{9FA85458-EE61-4F76-AC09-5BE990A647E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009 Special Pythagorean Triplet", "009 Special Pythagorean Triplet\009 Special Pythagorean Triplet.csproj", "{0F840C81-8858-4AEF-98C0-BB213B2CC817}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009 Special Pythagorean Triplet", "Problems\009 Special Pythagorean Triplet\009 Special Pythagorean Triplet.csproj", "{0F840C81-8858-4AEF-98C0-BB213B2CC817}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010 Summation of Primes", "010 Summation of Primes\010 Summation of Primes.csproj", "{94D356E2-3E04-4438-B8AF-7483C80A2833}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010 Summation of Primes", "Problems\010 Summation of Primes\010 Summation of Primes.csproj", "{94D356E2-3E04-4438-B8AF-7483C80A2833}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021 Amicable Numbers", "021 Amicable Numbers\021 Amicable Numbers.csproj", "{6744FEF8-ACC7-497A-BAD7-8889054ADF73}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021 Amicable Numbers", "Problems\021 Amicable Numbers\021 Amicable Numbers.csproj", "{6744FEF8-ACC7-497A-BAD7-8889054ADF73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "075 Singular integer right triangles", "075 Singular integer right triangles\075 Singular integer right triangles.csproj", "{6CBD3EE4-A968-4835-B7BF-95617FA6995D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "075 Singular integer right triangles", "Problems\075 Singular integer right triangles\075 Singular integer right triangles.csproj", "{6CBD3EE4-A968-4835-B7BF-95617FA6995D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011 Largest Product in a Grid", "011 Largest Product in a Grid\011 Largest Product in a Grid.csproj", "{9C75D8F9-C6DC-4232-AAFF-2A7F4280C1AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011 Largest Product in a Grid", "Problems\011 Largest Product in a Grid\011 Largest Product in a Grid.csproj", "{9C75D8F9-C6DC-4232-AAFF-2A7F4280C1AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012 Highly Divisible Triangular Number", "012 Highly Divisible Triangular Number\012 Highly Divisible Triangular Number.csproj", "{2E9D1454-C322-4531-89DC-3A9A475F62DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012 Highly Divisible Triangular Number", "Problems\012 Highly Divisible Triangular Number\012 Highly Divisible Triangular Number.csproj", "{2E9D1454-C322-4531-89DC-3A9A475F62DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013 Large Sum", "013 Large Sum\013 Large Sum.csproj", "{C2E6A432-8786-4BC1-92D4-F67F949D2358}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013 Large Sum", "Problems\013 Large Sum\013 Large Sum.csproj", "{C2E6A432-8786-4BC1-92D4-F67F949D2358}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014 Longest Collatz Sequence", "014 Longest Collatz Sequence\014 Longest Collatz Sequence.csproj", "{99C34BB4-A851-41BE-ADBB-154EBED74900}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014 Longest Collatz Sequence", "Problems\014 Longest Collatz Sequence\014 Longest Collatz Sequence.csproj", "{99C34BB4-A851-41BE-ADBB-154EBED74900}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015 Lattice Paths", "015 Lattice Paths\015 Lattice Paths.csproj", "{1B71A5C3-6D18-4C2A-B94F-8920AAC21B1F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015 Lattice Paths", "Problems\015 Lattice Paths\015 Lattice Paths.csproj", "{1B71A5C3-6D18-4C2A-B94F-8920AAC21B1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016 Power Digit Sum", "016 Power Digit Sum\016 Power Digit Sum.csproj", "{C3480C29-6E58-4B67-BB5D-7E8E69773256}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016 Power Digit Sum", "Problems\016 Power Digit Sum\016 Power Digit Sum.csproj", "{C3480C29-6E58-4B67-BB5D-7E8E69773256}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017 Number Letter Counts", "017 Number Letter Counts\017 Number Letter Counts.csproj", "{664437DC-8641-4709-B765-CF88112D2D16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017 Number Letter Counts", "Problems\017 Number Letter Counts\017 Number Letter Counts.csproj", "{664437DC-8641-4709-B765-CF88112D2D16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018 Maximum Path Sum I", "018 Maximum Path Sum I\018 Maximum Path Sum I.csproj", "{DFD9D32A-FD86-465F-B57E-C93DDE465BDA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018 Maximum Path Sum I", "Problems\018 Maximum Path Sum I\018 Maximum Path Sum I.csproj", "{DFD9D32A-FD86-465F-B57E-C93DDE465BDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019 Counting Sundays", "019 Counting Sundays\019 Counting Sundays.csproj", "{5A697818-697F-4EF7-B038-EDD812A3585C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019 Counting Sundays", "Problems\019 Counting Sundays\019 Counting Sundays.csproj", "{5A697818-697F-4EF7-B038-EDD812A3585C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020 Factorial Digit Sum", "020 Factorial Digit Sum\020 Factorial Digit Sum.csproj", "{D232182E-73D0-44D5-9BAB-FE0D59568BC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020 Factorial Digit Sum", "Problems\020 Factorial Digit Sum\020 Factorial Digit Sum.csproj", "{D232182E-73D0-44D5-9BAB-FE0D59568BC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
